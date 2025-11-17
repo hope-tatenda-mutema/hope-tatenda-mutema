@@ -69,7 +69,7 @@ Applied **multiple regression in R** to analyze how genre, viewing hours, global
 
 **Tech Stack:** `R` `Multi-Variable Analysis` `OLS Regression`
 
-[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/netflix-ratings-regression)
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/Netflix-Movie-Rating-DV-Multiple-Linear-Regression-R)
 
 </td>
 <td width="50%">
