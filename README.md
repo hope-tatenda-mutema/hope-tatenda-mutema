@@ -91,7 +91,7 @@ Applied **simple linear regression in R** to analyze how global availability imp
 
 **Tech Stack:** `R` `Linear Regression` `Data Analysis`
 
-[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/netflix-global-availability-ratings)
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/Netflix-Movie-Ratings-DV-Simple-Linear-Regression-R)
 
 </td>
 <td width="50%">
