@@ -50,7 +50,7 @@ Built AI-powered platform using **Agentic AI with n8n** to extract data and deli
 
 🏆 **Sustainable Communities Impact Challenge Winner**
 
-[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/pathfinder-ai)
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)]([https://github.com/hope-tatenda-mutema/pathfinder-ai](https://github.com/hope-tatenda-mutema/Pathfinder-AI-Project))
 
 </td>
 </tr>
