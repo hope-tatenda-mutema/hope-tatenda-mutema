@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hope-mutema)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hopetatendamutema)
+[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hopetatendamutema.com)
 
 </div>
 
@@ -36,7 +37,28 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Featured Competition Project
+
+<table>
+<tr>
+<td width="100%">
+
+### 🤖 Pathfinder AI
+Built AI-powered platform using **Agentic AI with n8n** to extract data and deliver personalized CTE & dual-enrollment recommendations for DC students.
+
+**Tech Stack:** `n8n Workflows` `AI for Good` `Agentic AI`
+
+🏆 **Sustainable Communities Impact Challenge Winner**
+
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/pathfinder-ai)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Minor Projects
 
 <table>
 <tr>
@@ -52,20 +74,6 @@ Applied **multiple regression in R** to analyze how genre, viewing hours, global
 </td>
 <td width="50%">
 
-### 🤖 Pathfinder AI
-Built AI-powered platform using **Agentic AI with n8n** to extract data and deliver personalized CTE & dual-enrollment recommendations for DC students.
-
-**Tech Stack:** `n8n Workflows` `AI for Good` `Agentic AI`
-
-🏆 *Sustainable Communities Impact Challenge*
-
-[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/pathfinder-ai)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
 ### 🌍 Ratings & Global Reach Analysis
 Applied **Chi-square tests & regression in R** to explore statistical relationships between Netflix movie ratings and worldwide availability patterns.
 
@@ -74,6 +82,8 @@ Applied **Chi-square tests & regression in R** to explore statistical relationsh
 [![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/ratings-global-reach-analysis)
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🎬 Netflix Global Availability & Ratings
@@ -84,8 +94,6 @@ Applied **simple linear regression in R** to analyze how global availability imp
 [![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/netflix-global-availability-ratings)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🎵 Spotify Song Popularity Drivers
@@ -94,9 +102,6 @@ Analyzed **1M+ Spotify tracks in R** exploring how danceability, energy, genre, 
 **Tech Stack:** `R` `Multi-Feature Analysis` `Big Data`
 
 [![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/spotify-popularity-drivers)
-
-</td>
-<td width="50%">
 
 </td>
 </tr>
