@@ -1,54 +1,121 @@
-<h1 align="center">Hi 👋, I'm Hope Tatenda Mutema</h1>
-<h3 align="center">A dedicated data analyst, passionate about uncovering insights and transforming data into meaningful solutions</h3>
+<div align="center">
+  
+# 👋 Hi, I'm Hope Tatenda Mutema
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/hope-mutema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hope-mutema" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@hopetatendamutema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@hopetatendamutema" height="30" width="40" /></a>
-</p>
+### 📊 Data Analyst | 🔍 Insight Explorer | 💡 Problem Solver
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> </a>
-<a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/> </a>
-<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-</p>
+*Passionate about uncovering insights and transforming data into meaningful solutions*
 
-<h3 align="left">Projects I've Worked On:</h3>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/hope-mutema)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hopetatendamutema)
 
-<h4>📊 Netflix Movie Ratings Regression</h4>
-<p>Applied <strong>multiple regression in R</strong> to analyze how genre, viewing hours, global release, and season impact Netflix movie ratings across diverse content.</p>
-<p><strong>Technologies:</strong> R, Multi-Variable Analysis, OLS Regression</p>
-<p><a href="https://github.com/hope-tatenda-mutema/netflix-ratings-regression" target="_blank">🔗 View Project</a></p>
-
-<h4>🤖 Pathfinder AI</h4>
-<p>Built AI-powered platform using <strong>Agentic AI with n8n</strong> to extract data from relevant sources and deliver personalized CTE & dual-enrollment recommendations for DC students.</p>
-<p><strong>Technologies:</strong> n8n Workflows, AI for Good</p>
-<p><strong>Tags:</strong> AI-Driven, Sustainable Communities Impact Challenge</p>
-<p><a href="https://github.com/hope-tatenda-mutema/pathfinder-ai" target="_blank">🔗 View Project</a></p>
-
-<h4>🌍 Ratings & Global Reach Analysis</h4>
-<p>Applied <strong>Chi-square tests & regression in R</strong> to explore statistical relationships between Netflix movie ratings and worldwide availability patterns.</p>
-<p><strong>Technologies:</strong> R, Chi-Square Test, Regression</p>
-<p><a href="https://github.com/hope-tatenda-mutema/ratings-global-reach-analysis" target="_blank">🔗 View Project</a></p>
-
-<h4>🎬 Netflix Global Availability & Ratings</h4>
-<p>Applied <strong>simple linear regression in R</strong> to analyze how global availability impacts Netflix movie ratings, revealing statistical patterns in worldwide content performance.</p>
-<p><strong>Technologies:</strong> R, Linear Regression, Data Analysis</p>
-<p><a href="https://github.com/hope-tatenda-mutema/netflix-global-availability-ratings" target="_blank">🔗 View Project</a></p>
-
-<h4>🎵 Spotify Song Popularity Drivers</h4>
-<p>Analyzed <strong>1M+ Spotify tracks in R</strong> exploring how danceability, energy, genre, duration, and temporal trends influence song popularity using correlation and regression models.</p>
-<p><strong>Technologies:</strong> R, Multi-Feature Analysis, 1M+ Songs</p>
-<p><a href="https://github.com/hope-tatenda-mutema/spotify-popularity-drivers" target="_blank">🔗 View Project</a></p>
+</div>
 
 ---
 
-<p align="center">
-<i>💡 Open to collaboration and new opportunities in data analytics and AI!</i>
-</p>
+## 🛠️ Technical Skills
+
+<div align="center">
+
+### Programming & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Visualization & BI Tools
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Netflix Movie Ratings Regression
+Applied **multiple regression in R** to analyze how genre, viewing hours, global release, and season impact Netflix movie ratings across diverse content.
+
+**Tech Stack:** `R` `Multi-Variable Analysis` `OLS Regression`
+
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/netflix-ratings-regression)
+
+</td>
+<td width="50%">
+
+### 🤖 Pathfinder AI
+Built AI-powered platform using **Agentic AI with n8n** to extract data and deliver personalized CTE & dual-enrollment recommendations for DC students.
+
+**Tech Stack:** `n8n Workflows` `AI for Good` `Agentic AI`
+
+🏆 *Sustainable Communities Impact Challenge*
+
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/pathfinder-ai)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌍 Ratings & Global Reach Analysis
+Applied **Chi-square tests & regression in R** to explore statistical relationships between Netflix movie ratings and worldwide availability patterns.
+
+**Tech Stack:** `R` `Chi-Square Test` `Regression`
+
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/ratings-global-reach-analysis)
+
+</td>
+<td width="50%">
+
+### 🎬 Netflix Global Availability & Ratings
+Applied **simple linear regression in R** to analyze how global availability impacts Netflix movie ratings, revealing statistical patterns.
+
+**Tech Stack:** `R` `Linear Regression` `Data Analysis`
+
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/netflix-global-availability-ratings)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎵 Spotify Song Popularity Drivers
+Analyzed **1M+ Spotify tracks in R** exploring how danceability, energy, genre, duration, and temporal trends influence song popularity.
+
+**Tech Stack:** `R` `Multi-Feature Analysis` `Big Data`
+
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/spotify-popularity-drivers)
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📫 Let's Connect!
+
+💼 Open to collaboration and new opportunities in data analytics and AI
+
+📧 Reach out for projects, consulting, or just to chat about data!
+
+---
+
+*"Data is the new oil, but insights are the refined fuel that powers decisions."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=hope-tatenda-mutema&color=blueviolet&style=flat-square)
+
+</div>
