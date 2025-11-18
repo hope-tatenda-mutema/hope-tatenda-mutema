@@ -101,7 +101,7 @@ Analyzed **1M+ Spotify tracks in R** exploring how danceability, energy, genre, 
 
 **Tech Stack:** `R` `Multi-Feature Analysis` `Big Data`
 
-[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/spotify-popularity-drivers)
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/Spotify-Song-Popularity-Drivers)
 
 </td>
 </tr>
