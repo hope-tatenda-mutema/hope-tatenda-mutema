@@ -79,7 +79,7 @@ Applied **Chi-square tests & regression in R** to explore statistical relationsh
 
 **Tech Stack:** `R` `Chi-Square Test` `Regression`
 
-[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/ratings-global-reach-analysis)
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/Rating-and-Global-Reach-Analysis)
 
 </td>
 </tr>
