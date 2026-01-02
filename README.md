@@ -19,16 +19,19 @@
 <div align="center">
 
 ### Programming & Analytics
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Visualization & BI Tools
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ### Databases & Cloud
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -40,20 +43,21 @@
 ## 🏆 Featured Competition Project
 
 <table>
-<tr>
-<td width="100%">
+  <tr>
+    <td>
 
 ### 🤖 Pathfinder AI
+
 Built AI-powered platform using **Agentic AI with n8n** to extract data and deliver personalized CTE & dual-enrollment recommendations for DC students.
 
-**Tech Stack:** `n8n Workflows` `AI for Good` `Agentic AI`
+**Tech Stack:** `n8n Workflows` `AI for Good` `Agentic AI`  
 
-🏆 **Sustainable Communities Impact Challenge Winner**
+🏆 **Sustainable Communities Impact Challenge Winner**  
 
 [![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/Pathfinder-AI-Project)
 
-</td>
-</tr>
+   </td>
+  </tr>
 </table>
 
 ---
@@ -61,50 +65,72 @@ Built AI-powered platform using **Agentic AI with n8n** to extract data and deli
 ## 📊 Minor Projects
 
 <table>
-<tr>
-<td width="50%">
+  <tr>
+    <td width="50%">
+
+### 🏥 Health Insurance Risk Modeling
+
+Built regression models in Python to analyze how age, BMI, number of children, smoking status, and region impact annual medical insurance charges.
+
+**Tech Stack:** `Python` `pandas` `scikit-learn` `Linear & Ridge Regression`  
+
+[![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/health-insurance-risk-modeling)
+
+   </td>
+    <td width="50%">
 
 ### 📊 Netflix Movie Ratings Regression
+
 Applied **multiple regression in R** to analyze how genre, viewing hours, global release, and season impact Netflix movie ratings across diverse content.
 
-**Tech Stack:** `R` `Multi-Variable Analysis` `OLS Regression`
+**Tech Stack:** `R` `Multi-Variable Analysis` `OLS Regression`  
 
 [![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/Netflix-Movie-Rating-DV-Multiple-Linear-Regression-R)
 
-</td>
-<td width="50%">
+   </td>
+  </tr>
+  <tr>
+    <td width="50%">
 
 ### 🌍 Ratings & Global Reach Analysis
+
 Applied **Chi-square tests & regression in R** to explore statistical relationships between Netflix movie ratings and worldwide availability patterns.
 
-**Tech Stack:** `R` `Chi-Square Test` `Regression`
+**Tech Stack:** `R` `Chi-Square Test` `Regression`  
 
 [![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/Rating-and-Global-Reach-Analysis)
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+   </td>
+    <td width="50%">
 
 ### 🎬 Netflix Global Availability & Ratings
+
 Applied **simple linear regression in R** to analyze how global availability impacts Netflix movie ratings, revealing statistical patterns.
 
-**Tech Stack:** `R` `Linear Regression` `Data Analysis`
+**Tech Stack:** `R` `Linear Regression` `Data Analysis`  
 
 [![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/Netflix-Movie-Ratings-DV-Simple-Linear-Regression-R)
 
-</td>
-<td width="50%">
+   </td>
+  </tr>
+  <tr>
+    <td width="50%">
 
 ### 🎵 Spotify Song Popularity Drivers
+
 Analyzed **1M+ Spotify tracks in R** exploring how danceability, energy, genre, duration, and temporal trends influence song popularity.
 
-**Tech Stack:** `R` `Multi-Feature Analysis` `Big Data`
+**Tech Stack:** `R` `Multi-Feature Analysis` `Big Data`  
 
 [![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/Spotify-Song-Popularity-Drivers)
 
-</td>
-</tr>
+   </td>
+    <td width="50%">
+
+&nbsp;
+
+   </td>
+  </tr>
 </table>
 
 ---
@@ -113,7 +139,7 @@ Analyzed **1M+ Spotify tracks in R** exploring how danceability, energy, genre, 
 
 ## 📫 Let's Connect!
 
-💼 Open to collaboration and new opportunities in data analytics and AI
+💼 Open to collaboration and new opportunities in data analytics and AI  
 
 📧 Reach out for projects, consulting, or just to chat about data!
 
