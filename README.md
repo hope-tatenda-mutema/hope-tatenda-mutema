@@ -2,9 +2,9 @@
   
 # 👋 Hi, I'm Hope Tatenda Mutema
 
-### 📊 Data Analyst | 🔍 Insight Explorer | 💡 Problem Solver
+### 📊 Data Analyst | 🤖 AI Enthusiast | 💡 Problem Solver  
 
-*Passionate about uncovering insights and transforming data into meaningful solutions*
+*Passionate about uncovering insights and transforming data into meaningful, AI‑powered solutions.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hope-mutema)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@hopetatendamutema)
@@ -48,13 +48,38 @@
 
 ### 🤖 Pathfinder AI
 
-Built AI-powered platform using **Agentic AI with n8n** to extract data and deliver personalized CTE & dual-enrollment recommendations for DC students.
+Built an AI-powered platform using **Agentic AI with n8n** to extract data and deliver personalized CTE & dual-enrollment recommendations for DC students.
 
 **Tech Stack:** `n8n Workflows` `AI for Good` `Agentic AI`  
 
 🏆 **Sustainable Communities Impact Challenge Winner**  
 
 [![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/Pathfinder-AI-Project)
+
+   </td>
+  </tr>
+</table>
+
+---
+
+## 🤖 AI Projects
+
+<table>
+  <tr>
+    <td width="50%">
+
+### 📚 Deep Research Agent with Pydantic AI
+
+Designed a **multi-step Deep Research Agent** using Pydantic AI and OpenAI models that orchestrates DuckDuckGo web searches to produce structured, source‑backed reports on stocks and complex topics.
+
+**Tech Stack:** `Python` `Pydantic AI` `OpenAI` `DuckDuckGo Search` `Agentic Workflows`  
+
+[![View Project](https://img.shields.io/badge/View_Deep_Research_Agent-6366F1?style=for-the-badge)](https://github.com/hope-tatenda-mutema/Pedantic-AI-Deep-Research-Agent)
+
+   </td>
+    <td width="50%">
+
+&nbsp;
 
    </td>
   </tr>
@@ -141,7 +166,7 @@ Analyzed **1M+ Spotify tracks in R** exploring how danceability, energy, genre, 
 
 💼 Open to collaboration and new opportunities in data analytics and AI  
 
-📧 Reach out for projects, consulting, or just to chat about data!
+📧 Reach out for projects, consulting, or just to chat about data & intelligent systems!
 
 ---
 
