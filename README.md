@@ -160,6 +160,28 @@ Analyzed **1M+ Spotify tracks in R** exploring how danceability, energy, genre, 
 
 ---
 
+## 🔬 Major Projects
+
+<table>
+    <tr>
+          <td width="100%">
+
+            ### 📜 Critical Analysis of CRPD Alternative Reports
+
+            A **mixed-methods computational text analysis** project examining **337 English-language civil society alternative reports** submitted to the UN Committee on the Rights of Persons with Disabilities (CRPD). Reports were collected via **Selenium web automation** from the OHCHR Treaty Body Database.
+
+            Applied term frequency analysis, **TF-IDF**, bigram analysis, **GloVe word embeddings**, Named Entity Recognition (**spaCy**), lexicon-based sentiment analysis (**Bing**), and **LLM-assisted qualitative coding** (NotebookLM) to identify policy priorities, regional variation, and intersectional vulnerability patterns across civil society reporting. All analysis conducted in **R and Python** within a **Quarto** literate programming environment.
+
+            **Tech Stack:** `R` `Python` `spaCy` `GloVe` `TF-IDF` `Selenium` `Quarto` `NLP` `LLM`
+
+            [![View Project](https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge)](https://github.com/hope-tatenda-mutema/critical_analysis_of_CRPD_alternative_reports)
+
+        </td>
+        </tr>
+</table>
+
+---
+
 <div align="center">
 
 ## 📫 Let's Connect!
